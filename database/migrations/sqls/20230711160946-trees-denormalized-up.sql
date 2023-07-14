@@ -1,6 +1,6 @@
 CREATE TABLE trees_denormalized (
     id int NOT NULL PRIMARY KEY,
-    organizations jsonb NOT NULL,
+    organizations int[] NOT NULL,
     wallet_id uuid,
     country_id int NOT NULL,
     continent_id int NOT NULL,
