@@ -1,8 +1,9 @@
 apiVersion: getambassador.io/v2
 kind: Mapping
 metadata:
-  name: SERVICE
+  name: treetracker-denormalization
 spec:
-  prefix: /MAPPING_PREFIX/
-  service: SERVICE
+  prefix: /denormalization/
+  service: treetracker-denormalization
   rewrite: /
+  timeout_ms: 0
