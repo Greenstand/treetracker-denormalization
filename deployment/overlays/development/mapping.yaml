@@ -1,15 +1,11 @@
----
 apiVersion: getambassador.io/v2
 kind: Mapping
 metadata:
-  name: SERVICE
+  name: treetracker-denormalization
 spec:
   cors:
-    cors:
-    origins:
-    - '*'
+    origins: '*'
+    methods: GET, POST, PATCH, OPTIONS
     headers:
-    - Content-Type
-    - Authorization
-    methods:
-    - 'GET, POST, PATCH, PUT, OPTIONS, DELETE'
+      - Content-Type
+      - Authorization
