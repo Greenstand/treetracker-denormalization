@@ -27,7 +27,7 @@ spec:
         - name: treetracker-denormalization
           image: greenstand/treetracker-denormalization:VERSION
           ports:
-            - containerPort: 80
+            - containerPort: 3006
           env:
             - name: DATABASE_URL
               valueFrom:
