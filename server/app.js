@@ -17,6 +17,7 @@ if (process.env.NODE_ENV === 'development') {
 /*
  * Check request
  */
+
 app.use(
   handlerWrapper(async (req, _res, next) => {
     if (
