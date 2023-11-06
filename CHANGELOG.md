@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/Greenstand/treetracker-denormalization/compare/v1.0.1...v1.0.2) (2023-11-06)
+
+
+### Bug Fixes
+
+* deploy ([47a1cbf](https://github.com/Greenstand/treetracker-denormalization/commit/47a1cbfc66803a25a575b1705ec0232c0d9ef8a7))
+
 ## [1.0.1](https://github.com/Greenstand/treetracker-denormalization/compare/v1.0.0...v1.0.1) (2023-11-03)
 
 
