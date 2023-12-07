@@ -2,7 +2,6 @@ require('dotenv').config({ path: `.env.${process.env.NODE_ENV}` });
 const path = require('path');
 
 const connection = process.env.DATABASE_URL_SEEDER;
-
 const postgresPattern = /^postgresql:\//;
 
 if (!postgresPattern.test(connection)) {
