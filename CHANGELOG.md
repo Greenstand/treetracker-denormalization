@@ -1,3 +1,10 @@
+## [1.0.9](https://github.com/Greenstand/treetracker-denormalization/compare/v1.0.8...v1.0.9) (2024-01-03)
+
+
+### Bug Fixes
+
+* correct namespace in base ([5aef106](https://github.com/Greenstand/treetracker-denormalization/commit/5aef106626d5ef89873ea3dc88b9cbadefa61e4c))
+
 ## [1.0.8](https://github.com/Greenstand/treetracker-denormalization/compare/v1.0.7...v1.0.8) (2023-12-07)
 
 
