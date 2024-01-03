@@ -8,7 +8,7 @@ metadata:
 subjects:
   - kind: ServiceAccount
     name: default
-    namespace: treetracker-denormalization
+    namespace: denormalization
 roleRef:
   kind: ClusterRole
   name: k8s-wait-for
