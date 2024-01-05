@@ -1,3 +1,10 @@
+## [1.0.12](https://github.com/Greenstand/treetracker-denormalization/compare/v1.0.11...v1.0.12) (2024-01-05)
+
+
+### Bug Fixes
+
+* correct service auth ([96a48d8](https://github.com/Greenstand/treetracker-denormalization/commit/96a48d8b261f672a4d9bc3e37c398531c5ed9a6e))
+
 ## [1.0.11](https://github.com/Greenstand/treetracker-denormalization/compare/v1.0.10...v1.0.11) (2024-01-05)
 
 
